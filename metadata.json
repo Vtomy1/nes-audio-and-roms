@@ -1,0 +1,6 @@
+{
+  "name": "NES Audio & ROM Header Studio",
+  "description": "Convert audio samples to NES 2A03 DPCM bytecode, configure iNES and NES 2.0 ROM headers with audio expansion mappers, and assemble playable NES ROMs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
